@@ -41,7 +41,7 @@ Currently exploring **LLMs**, **Agentic AI**, and scalable software engineering.
 &nbsp;&nbsp;•&nbsp;&nbsp;
 <a href="https://www.linkedin.com/in/hurreet-kaur-5211a121a/">LinkedIn</a>
 &nbsp;&nbsp;•&nbsp;&nbsp;
-<a href="YOUR_PORTFOLIO">Portfolio</a>
+<!--<a href="YOUR_PORTFOLIO">Portfolio</a>-->
 
 </div>
 
@@ -82,7 +82,7 @@ Exploring     → LLMs • Multi-Agent Workflows
 
 <br/>
 
-## // PORTFOLIO
+<!--## // PORTFOLIO
 
 <div align="center">
 
@@ -92,7 +92,7 @@ Exploring     → LLMs • Multi-Agent Workflows
 
 </div>
 
-<br/>
+<br/>-->
 
 ## // OPEN SOURCE ACTIVITY
 
