@@ -66,8 +66,8 @@ Exploring     → LLMs • Multi-Agent Workflows
 
 **DEVELOPMENT**
 
-<p>
-<img src="https://skillicons.dev/icons?i=python,cpp,js,react,nodejs,express,mongodb,mysql,html,css,git,github,vscode&theme=dark"/>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=c,cpp,python,r,react,nodejs,mysql,html,css,vscode&theme=dark" />
 </p>
 
 **AI • MACHINE LEARNING**
