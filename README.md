@@ -78,7 +78,7 @@ Exploring     → LLMs • Multi-Agent Workflows
 
 **COMPUTER SCIENCE**
 
-`Data Structures & Algorithms` • `Operating Systems` • `DBMS` • `Computer Networks` • `System Design`
+`Data Structures & Algorithms` • `Operating Systems` • `DBMS` • `Computer Networks` 
 
 <br/>
 
