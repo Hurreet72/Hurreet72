@@ -41,7 +41,7 @@ Currently exploring **LLMs**, **Agentic AI**, and scalable software engineering.
 &nbsp;&nbsp;•&nbsp;&nbsp;
 <a href="https://www.linkedin.com/in/hurreet-kaur-5211a121a/">LinkedIn</a>
 &nbsp;&nbsp;•&nbsp;&nbsp;
-<!--<a href="YOUR_PORTFOLIO">Portfolio</a>-->
+ href="https://my-portfolio-murex-three-69.vercel.app/">Portfolio</a>
 
 </div>
 
